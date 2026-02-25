@@ -1,4 +1,4 @@
-const CredFrom = () => {
+const CredForm = () => {
     return (
         <>
             <div className="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
@@ -63,4 +63,4 @@ const CredFrom = () => {
     )
 }
 
-export default CredFrom
+export default CredForm

@@ -1,5 +1,5 @@
 import snowball from '../assets/Snowball.png'
-import CredFrom from '../components/CredFrom'
+import CredForm from '../components/CredForm'
 
 const Login = () => {
     return (
@@ -24,7 +24,7 @@ const Login = () => {
                     </h2>
                 </div>
             </div>
-            <CredFrom />
+            <CredForm />
         </>
     )
 
